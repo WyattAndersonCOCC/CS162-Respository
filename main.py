@@ -2,7 +2,8 @@
 # Project requires TWO functions:
 
 # Returns Area of Rectangle
-
+def rect_area(length, width):
+    return length * width
 
 # Returns Surface Area of Rectangular Solid
 def surface_area(length, width, height):
